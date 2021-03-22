@@ -1,0 +1,8 @@
+pandas<=1.1.2
+numpy>=1.19.1
+beautifulsoup4>=4.9.3    
+nltk>=3.5
+seaborn>= 0.11.0
+wordcloud>=1.8.1
+pysentiment2>=0.1.1
+xlrd>=2.0.1
